@@ -1,2 +1,2 @@
-Programming languages: Java 
-Frameworks/tools: Hibernate, Spring 
+<p> Programming languages: Java </p>
+<p> Frameworks/tools: Hibernate, Spring </p> 
